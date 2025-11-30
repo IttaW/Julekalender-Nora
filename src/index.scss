@@ -1,0 +1,247 @@
+@keyframes colorChange {
+  from {
+    background-color: red
+  }
+  to {
+    background-color: green
+  }
+}
+@keyframes snoe  {
+  0% {top: -50%; bottom: 150%}
+  100% {top: 150%; bottom: -50%}
+}
+@media only screen and (max-width: 800px) {
+  @keyframes snoe  {
+    0% {top: -50%; bottom: 500%}
+    100% {top: 500%; bottom: -50%}
+}
+}
+@keyframes roter  {
+  from {transform: rotate(0deg)}
+  to {transform: rotate(360deg)}
+}
+.imgContainer{
+  display: flex;
+  justify-content: space-between;
+}
+.img1{
+  position: absolute;
+  right: 2%;
+  width: 100px;
+  animation: snoe forwards 15.2s infinite linear, roter 5s infinite linear;
+  z-index: 2;
+}
+@media only screen and (max-width: 800px) {
+  .img1{
+    display: none;
+  }
+}
+.img2{
+  position: absolute;
+  right: 9%;
+  width: 100px;
+  animation: snoe forwards 17.8s infinite linear, roter 4s infinite linear;
+  z-index: 2;
+}
+.img3{
+  position: absolute;
+  right: 15%;
+  width: 100px;
+  animation: snoe forwards 24.4s infinite linear, roter 2s infinite linear;
+  z-index: 2;
+}
+@media only screen and (max-width: 800px) {
+  .img3{
+    display: none;
+  }
+}
+.img4{
+  position: absolute;
+  right: 21%;
+  width: 100px;
+  animation: snoe forwards 15s infinite linear, roter 1s infinite linear;
+  z-index: 2;
+}
+.img5{
+  position: absolute;
+  right: 28%;
+  width: 100px;
+  animation: snoe forwards 19.5s infinite linear, roter 3s infinite linear;
+  z-index: 2;
+}
+@media only screen and (max-width: 800px) {
+  .img5{
+    display: none;
+  }
+}
+.img6{
+  position: absolute;
+  right: 36%;
+  width: 100px;
+  animation: snoe forwards 14.5s infinite linear, roter 6s infinite linear;
+  z-index: 2;
+}
+.img7{
+  position: absolute;
+  right: 43%;
+  width: 100px;
+  animation: snoe forwards 20.2s infinite linear, roter 3s infinite linear ;
+  z-index: 2;
+}
+@media only screen and (max-width: 800px) {
+  .img7{
+    display: none;
+  }
+}
+.img8{
+  position: absolute;
+  right: 51%;
+  width: 100px;
+  animation: snoe forwards 23.5s infinite linear, roter 1s infinite linear;
+  z-index: 2;
+}
+.img9{
+  position: absolute;
+  right: 58%;
+  width: 100px;
+  animation: snoe forwards 22.5s infinite linear, roter 2s infinite linear;
+  z-index: 2;
+}
+@media only screen and (max-width: 800px) {
+  .img9{
+    display: none;
+  }
+}
+.img10{
+  position: absolute;
+  right: 64%;
+  width: 100px;
+  animation: snoe forwards 15.9s infinite linear, roter 4s infinite linear;
+  z-index: 2;
+}
+.img11{
+  position: absolute;
+  right: 70%;
+  width: 100px;
+  animation: snoe forwards 23s infinite linear, roter 2s infinite linear;
+  z-index: 2;
+}
+@media only screen and (max-width: 800px) {
+  .img11{
+    display: none;
+  }
+}
+.img12{
+  position: absolute;
+  right: 76%;
+  width: 100px;
+  animation: snoe forwards 18s infinite linear, roter 7s infinite linear;
+  z-index: 2;
+}
+.img13{
+  position: absolute;
+  right: 83%;
+  width: 100px;
+  animation: snoe forwards 20s infinite linear, roter 1s infinite linear;
+  z-index: 2;
+}
+@media only screen and (max-width: 800px) {
+  .img13{
+    display: none;
+  }
+}
+.img14{
+  position: absolute;
+  right: 89%;
+  width: 100px;
+  animation: snoe forwards 15.5s infinite linear, roter 5s infinite linear;
+  z-index: 2;
+}
+.img15{
+  position: absolute;
+  right: 95%;
+  width: 100px;
+  animation: snoe forwards 14s infinite linear, roter 6s infinite linear;
+  z-index: 2;
+}
+@media only screen and (max-width: 800px) {
+  .img15{
+    display: none;
+  }
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: red;
+  animation-name: colorChange;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+
+button:hover {
+  border-color: #646cff;
+}
+
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
