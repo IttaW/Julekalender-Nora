@@ -1,56 +1,54 @@
-import astridtv from "./assets/astridtv.png";
-import whiskey from "./assets/whiskey.png";
-import fh from "./assets/fh.png";
-import problem from "./assets/problem.png";
-import solen from "./assets/solen.png";
-import litenmagnus from "./assets/litenmagnus.png";
-import danlobby from "./assets/danlobby.png";
-import pcpose from "./assets/pcpose.jpg";
-import kakegruppe from "./assets/kakegruppe.png";
-import festkomite from "./assets/festkomite.png";
-import sykkeltyv from "./assets/sykkeltyv.png";
 import tst from "./assets/tst.png";
-import torthomas from "./assets/tor-joergen-thomas.png";
-import julememe from "./assets/Dag 24.jpg"
-import standup from "./assets/standup.jpg"
-import like from "./assets/likeskjorter.png"
-import brukertest from "./assets/brukertest.jpg"
-import selvportrett from "./assets/selvportrett.jpg"
-import kakamar from "./assets/kakamar.jpg"
-import badguys from "./assets/bad_guys.jpg"
-import kake from "./assets/kake-gygrid.png"
-import hliker from "./assets/hliker.png"
-import pila from "./assets/pila.png"
-import gele from "./assets/gele.jpg"
-import ski from "./assets/skidag.jpeg"
-import julelunsj from "./assets/julelunsj.png"
+import luke1 from "./assets/luke1.JPEG";
+import luke2 from "./assets/tst.png";
+import luke3 from "./assets/tst.png";
+import luke4 from "./assets/tst.png";
+import luke5 from "./assets/tst.png";
+import luke6 from "./assets/tst.png";
+import luke7 from "./assets/tst.png";
+import luke8 from "./assets/tst.png";
+import luke9 from "./assets/tst.png";
+import luke10 from "./assets/tst.png";
+import luke11 from "./assets/tst.png";
+import luke12 from "./assets/tst.png";
+import luke13 from "./assets/tst.png";
+import luke14 from "./assets/tst.png";
+import luke15 from "./assets/tst.png";
+import luke16 from "./assets/tst.png";
+import luke17 from "./assets/tst.png";
+import luke18 from "./assets/tst.png";
+import luke19 from "./assets/tst.png";
+import luke20 from "./assets/tst.png";
+import luke21 from "./assets/tst.png";
+import luke22 from "./assets/tst.png";
+import luke23 from "./assets/tst.png";
+import luke24 from "./assets/tst.png";
 
 export default [
-    danlobby,
-    torthomas,
-    whiskey,
-    astridtv,
-    pcpose,
-    julememe,
-    sykkeltyv,
-    standup,
-    like,
-    kakegruppe,
-    brukertest,
-    litenmagnus,
-    selvportrett,
-    kakamar,
-    problem,
-    kake,
-    hliker,
-    fh,
-    badguys,
-    pila,
-    gele,
-    ski,
-    festkomite,
-    julelunsj,
-    solen,
+    luke1,
+    luke2,
+    luke3,
+    luke4,
+    luke5,
+    luke6,
+    luke7,
+    luke8,
+    luke9,
+    luke10,
+    luke11,
+    luke12,
+    luke13,
+    luke14,
+    luke15,
+    luke16,
+    luke17,
+    luke18,
+    luke19,
+    luke20,
+    luke21,
+    luke22,
+    luke23,
+    luke24,
     tst,
     tst,
 ];

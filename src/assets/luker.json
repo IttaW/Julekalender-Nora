@@ -1,145 +1,145 @@
 [
   {
-    "dato": "2023-12-01",
-    "luke": "Året med team anmeldese starter med en workshop på kripos ledet av Bettina, men for Dan-Mikkel starter året i feil lobby. Bare to dager senere er vi tilbake på kripos for presentasjoner av masteroppgaver, der noen saftige bakevarer serveres, jeg tok minst to, kanskje tre!",
+    "dato": "2025-12-01",
+    "luke": "Du skulle egentlig kommet hjem fra nattevakt i dag! Dagens luke kvikker opp kropp og sinn!",
     "lukenummer": 1,
     "aktiv": false
   },
   {
-    "dato": "2023-12-02",
-    "luke": "Masteroppgaver byttes ut med pubgøy og musikkbingo. Thomas går på et røyket whiskeynederlag mot Tor-Jørgen og bartenderen. Mohammed beriker hendelsen med at når Thomas er skråsikker så tar han som regel feil. Det er et mantra jeg iallefall har levd med siden!",
+    "dato": "2025-12-02",
+    "luke": "",
     "lukenummer": 2,
     "aktiv": false
   },
   {
-    "dato": "2023-12-03",
-    "luke": "Ettermiddag blir kveld og hjemreise for de fleste, men for Rikard blir torsdag kveld til fredag morgen i boligsameiet fyrstikkbakken. Var det Majorstuen eller Hamar standup på deg den fredagen?",
+    "dato": "2025-12-03",
+    "luke": "",
     "lukenummer": 3,
     "aktiv": false
   },
   {
-    "dato": "2023-12-04",
-    "luke": "3. februar revolusjonerte Astrid teams. Hun løste gjenklang fra mikrofonen på en svært effektiv måte ved å, du gjettet riktig, skru av kamera?!? ",
+    "dato": "2025-12-04",
+    "luke": "",
     "lukenummer": 4,
     "aktiv": false
   },
   {
-    "dato": "2023-12-05",
-    "luke": "Krigen for bedre maskiner startet allerede i våres. Dervis var ekstremt optimistisk på at dette bare var formaliteter, men tiden gikk og det viste seg å ikke være så lett som først forespeilet. Bare et par dager før Dervis dro tilbake til Nav dukket det opp en mistenkelig remapose til oss i anmeldelse. Det var Dervis sin gamle Mac (dog uten cheese) sammen med tips om å ikke gi opp kravet vårt. Vi seiret tilslutt, omtrent et halvt år etter første forespørsel, men til hvilken pris? PIT sitt budsjett",
+    "dato": "2025-12-05",
+    "luke": "",
     "lukenummer": 5,
     "aktiv": false
   },
   {
-    "dato": "2023-12-06",
-    "luke": "Politiet har lite penger og på et tidspunkt ble det foreslått ads i anmeldelseskjemaet. Vi kunne sikkert ha finansiert hele produktområdet, eller iallefall macene våre. Ads, innsamling av data og videresalg til tredjeparter, PIT kunne blitt nye Meta. Hvorfor ekke det forslått på eiermøtet? Og btw, fjorårets meme har virkelig slått til, jeg er basically en spåmann!",
+    "dato": "2025-12-06",
+    "luke": "",
     "lukenummer": 6,
     "aktiv": false
   },
   {
-    "dato": "2023-12-07",
-    "luke": "ChatGPT (basert på en sann historie) -> Filip, Itamar og den forløsende skrivefeilen. Det var en gang to dyktige utviklere, Filip og Itamar, som ble satt opp for å løse et problem som plaget rabbitmq-klienten deres. Filip var en vis og tålmodig senior utvikler, mens Itamar var en ung og ivrig juniorutvikler med mange naive ideer. De prøvde alt de kunne for å få klienten til å sende og motta data, men uten noen feilmeldinger å lede dem, følte de seg som om de hadde nådd dypet av havets bunn. Men så, med en liten skrivefeil funnet av dem begge, så de et lysglimt av håp. Itamar ga løsningen på feilen hele 0,1% sjanse for å løse problemet, men det skulle vise seg at han tok grundig feil. Da han kjørte pipelinen, krasjet alt. Heldigvis var Filip der for å redde dagen, og han fikset testen som hadde blitt brutt av Itamars endringer. Men selv da, viste det seg at klassene deres ikke var gyldige for BL-DigA. Så de tok en dristig beslutning og endret hele pathen til klassene. Filip jobbet hardt og endret koden manuelt under hele friday-wins, og endelig var de i stand til å sende data. Men deres reise var ikke over enda. Kvitteringen de forventet å motta, kom aldri. Da kom en ukjent helt til deres redning i form av Gustavo på stackoverflow, som mente at de måtte bruke en MappingJackson2MessageConverter for å motta data. Med Filip sin visdom, lyktes de endelig i å få klienten til å fungere som den skulle. Thomas, som var veldig spent på resultatet, fikk endelig se et fantastisk bilde av en sykkeltyv inne i selveste BL. Så ved hjelp av Filip og Itamar sitt samarbeid og harde arbeid, ble problemet løst og de ble berømt som helter av denne tekniske verden. Snipp snapp snute, så var eventyret ute ",
+    "dato": "2025-12-07",
+    "luke": "",
     "lukenummer": 7,
     "aktiv": false
   },
   {
-    "dato": "2023-12-08",
-    "luke": "På nyåret var standupen vår  kl 10:45 på morgenen. Etter diskusjoner på retroen den 16. mars, ble det besluttet å flytte standup til kl 09:00 slik den er idag. Verdt å merke seg er at spesielt Stefan var pådriver for å flytte standup. Allerede dagen etter viste det seg at han muligens hadde satt den et hakk for tidlig for standup gikk uten vår sertifiserte tech-lead og burgerflipper",
+    "dato": "2025-12-08",
+    "luke": "",
     "lukenummer": 8,
     "aktiv": false
   },
   {
-    "dato": "2023-12-09",
-    "luke": "Tiden var kommet for prodsetting av kotlin DigA. Det gikk ekstremt rolig for seg i kontrast til saken om prodsettingen på kilden. I saken ble det vist bilder fra ulike tidspunkter av teamet, hvor bla Stefan, Itamar og Hassan har lik overdel på begge bildene imens Filip kan se ut til å ha kjøpt liknende skjorter på et 2 for 1 tilbud. Kanskje vi kan få et hvordan_variere_på_stilen-kurs på neste kompetansedag?",
+    "dato": "2025-12-09",
+    "luke": "",
     "lukenummer": 9,
     "aktiv": false
   },
   {
-    "dato": "2023-12-10",
-    "luke": "PIT og spesielt designseksjonen hadde ventet lenge og vel på figma og miro. Da det ble annonsert at det ble tilgjengelig var Astrid så fornøyd at hun like gjerne, med mikrofonen på, brølte ut FIGMA midt i Kjerstin sitt twist-innlegg!",
+    "dato": "2025-12-10",
+    "luke": "",
     "lukenummer": 10,
     "aktiv": false
   },
   {
-    "dato": "2023-12-11",
-    "luke": "Med ninjalik list stjal vi filhub og integrerte den, svært fornøyde med oss selv, inn i DigA. Vi ante deretter fred og ingen fare helt til Shahid så at gamle filhub ikke lenger kjørte og startet den opp igjen. Det viste seg at list og ran ikke alltid er beste løsning, for der fikk vi en haug med ekstraarbeid!",
+    "dato": "2025-12-11",
+    "luke": "",
     "lukenummer": 11,
     "aktiv": false
   },
   {
-    "dato": "2023-12-12",
-    "luke": "Julenøtt! Førstemann til å sende rett svar til meg på teams vinner premie (Eller den som er nærmest innen kl 12). Uten å åpne bøssen, hvor mye pantepenger er samlet i år?",
+    "dato": "2025-12-12",
+    "luke": "",
     "lukenummer": 12,
     "aktiv": false
   },
   {
-    "dato": "2023-12-13",
-    "luke": "En vinterkveld i Februar hadde teamet vært på et av Dan-Mikkel sine favoritt puber, nemlig Brewgata på Grønland. Det ble en sen kveld, og på trikken hjem gestikkulere Astrid mot en fremmed mann som viste oss fingeren ettersom han trodde vi tok bilde av han da det egentlig var selfien du akkurat så. Kvelden ble og forlenget for Astrid sin del da hun på trikken ved Torshov fant ut at hun hadde glemt sekken sin med bla jobb mac og muligens kort. Men å gå av umiddelbart var ikke et alternativ, jeg skulle følges hjem, men på Storo ble jeg forlatt for meg selv da Astrid snudde 180 grader tilbake den lange turen til sentrum!",
+    "dato": "2025-12-13",
+    "luke": "",
     "lukenummer": 13,
     "aktiv": false
   },
   {
-    "dato": "2023-12-14",
-    "luke": "I år hadde vi vårt første etterlevelsesmøte. I den første møteinnkallingen ble det nevnt at det var få møterom ledige og at vi måtte gjøre det beste ut av det. Spør du meg hadde en likkiste gjort en mer enn god nok jobb, for etter 3 timer med etterlevelse var nok de fleste døden nær. Og hadde noen spurt meg for et år siden hva jeg trodde Stefan kom til å bli kjent for i PIT, så hadde ikke etterlevelse vært høyt på den listen",
+    "dato": "2025-12-14",
+    "luke": "",
     "lukenummer": 14,
     "aktiv": false
   },
   {
-    "dato": "2023-12-15",
-    "luke": "Visdomsord og sitater gjennom året: \"When in doubt, cronjob.\" \"Ser det bra ut så er det konvensjonen.\" \"Skjema er som smuler vi limer sammen.\" \"Haha, så nå at jeg skrev \"you dawg\" i stedet for \"yo dawg\" også. Det var altså en utilsiktet frekkhet.\" \"God morn! Litt forsinka, da sykkelkjedet brakk \uD83D\uDE05\" \"Hva er computerworld?\"",
+    "dato": "2025-12-15",
+    "luke": "",
     "lukenummer": 15,
     "aktiv": false
   },
   {
-    "dato": "2023-12-16",
-    "luke": "Vi har hatt mange merkedager iløpet av året. Filip og Dan-Mikkel giftet seg, Dan-Mikkel ble far, Astrid, Magnus og Itamar kjøpte/flyttet inn i nye boliger og vi har hatt fjorten bursdager. Antall kakestunder iår, ca fem. Føler meg snytt på vegne av teamet ettersom jeg i år sannsynligvis ikke kunne spist noe av det uansett :D",
+    "dato": "2025-12-16",
+    "luke": "",
     "lukenummer": 16,
     "aktiv": false
   },
   {
-    "dato": "2023-12-17",
-    "luke": "Vi har alltid visst at det har vært problemer med eksisterende anmeldelsesløsning. På et tidspunkt fant vi ut at brukerne hadde beskrevet gjenstandene sine for ingenting. Hva baktanken til liken fra Hassan på bildet var vet ikke jeg. Mouseslip? Skadefryd? Det som er sikkert er at de som kanskje brukte litt for lang tid på beskrivelsen, sannsynligvis ble timet ut og aldri fikk levert. Så ikke bare beskrev de for ingenting, de fikk ikke engang levert sitt unødvendige arbeid",
+    "dato": "2025-12-17",
+    "luke": "",
     "lukenummer": 17,
     "aktiv": false
   },
   {
-    "dato": "2023-12-18",
-    "luke": "Diverse møteromsnavn fra iår: «Veni vidi vici» «K8s, secrets, env, configs, where does everything lead and down the rabbit hole we go!» «🦹‍♂️🦹‍♂️👀» «Kompetansesenkende arbeid» «Kompetansehevende arbeid 🍄» «Logikk for det kidza kaller snitches» «Sertifikater for noe som tilsynelatende ikke er en Alien» «Bistandskanalen» «13 grader på kontoret, brrrrr» «Horogbår» «Parole: Ta tilbake oppgavefordelingen til utviklerne!»",
+    "dato": "2025-12-18",
+    "luke": "",
     "lukenummer": 18,
     "aktiv": false
   },
   {
-    "dato": "2023-12-19",
-    "luke": "Fet logo Astrid. Men fikk vi egentlig noen gang sett Magnus gående i bro? Hvis du ser dette Magnus, send video av deg i bro eller betal en bot på 50,- for manglende brofremvisning til panteboksen",
+    "dato": "2025-12-19",
+    "luke": "",
     "lukenummer": 19,
     "aktiv": false
   },
   {
-    "dato": "2023-12-20",
-    "luke": "Optimistpila, optimiststreken, utopimarkøren, kjært barn har mange navn. Det er mye man kunne sagt om pila, men to ting er helt sikkert. Det er en pil og DEN KOKER OVER AV OPTIMISME! Altså vi har ikke klart å passere første lapp engang. Vi har i praksis bare skjøvet den forover mot mottak og stoppet opp der. Årets skivebom går til alle som trodde at vi skulle ha et skjema klart tidlig i høst, årets nesten går til Dan-Mikkel for å gjette på at vi er ferdige til han blir far, imens årets fulltreffer går til meg (snikskryt) for å melde at SKJEMA, LAPP NUMMER EN ALTSÅ, ikke er ferdig før jul",
+    "dato": "2025-12-20",
+    "luke": "",
     "lukenummer": 20,
     "aktiv": false
   },
   {
-    "dato": "2023-12-21",
-    "luke": "Vi kommer ikke utenom høstens høydepunkt, Thomas befaler. Jeg er utrolig glad for at Anders, Julie, Mari, Sonia og Tita ikke var inne i teamet da innspilling startet for det tok meg ca 8 timer å redigere bare en oppgave, og vi hadde tre. Men resultatet ble fantastisk og jeg tror dere er enige med meg at jeg klarte å fodumme de fleste av dere. Det jeg tar med meg videre etter Thomas befaler er at å sitte på huk ikke er så åpenbart som man skulle tro og at strenge POD-menn ikke liker legokasting på stillerom. Og ja, det er meg som smelter gele halv to på natten til oppgave 3, for det var da jeg hadde tid etter ekstrajobb og løping",
+    "dato": "2025-12-21",
+    "luke": "",
     "lukenummer": 21,
     "aktiv": false
   },
   {
-    "dato": "2023-12-22",
-    "luke": "2023 var året da idretten snek seg inn i team anmeldelses indre sfære. Året startet med fotballtreninger og ekstremt tidlige morgener for meg selv. Skidag, sentrumsløp og holmenkollstafett var populære aktiviteter på våren. Paddel på ryen, arrangert av Thomas, var en stor suksess. Naturligvis fordi jeg slo Thomas. Videre var det mer paddel på høsten og mot slutten av året er visstnok en squashgruppe etablert. Dette legger et godt grunnlag for et 2024 i toppform, og det kommer godt med ettersom Magnus skal arrangere en utradisjonell sjukamp :)",
+    "dato": "2025-12-22",
+    "luke": "",
     "lukenummer": 22,
     "aktiv": false
   },
   {
-    "dato": "2023-12-23",
-    "luke": "Thomas stammet seg gjennom brief til mehl, men etter Astrids hjemmekoselige stemme skjønte han at det ikke var noe å være nervøs for",
+    "dato": "2025-12-23",
+    "luke": "",
     "lukenummer": 23,
     "aktiv": false
   },
   {
-    "dato": "2023-12-24",
-    "luke": "Var litt full og glemte å lage luke igår, så derfor luken var litt rar. Men nå er julaften her og det er ikke så mye mer å si enn å ønske dere alle en riktig god jul og godt nyttår, også gleder jeg meg til et nytt år preget av budsjett, sky, skjema og gode kolleger! God jul!",
+    "dato": "2025-12-24",
+    "luke": "",
     "lukenummer": 24,
     "aktiv": false
   }

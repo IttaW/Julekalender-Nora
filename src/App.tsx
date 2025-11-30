@@ -26,8 +26,7 @@ function App() {
       </div>
 
       <div className={styles.container}>
-        <h1>Julekalender</h1>
-        <h2>Øyeblikk gjennom året</h2>
+        <h1>Nora sin julekalender!</h1>
         <Kalender />
       </div>
     </>
