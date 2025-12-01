@@ -1,6 +1,6 @@
 import tst from "./assets/tst.png";
 import luke1 from "./assets/luke1.JPEG";
-import luke2 from "./assets/tst.png";
+import luke2 from "./assets/luke2.JPEG";
 import luke3 from "./assets/tst.png";
 import luke4 from "./assets/tst.png";
 import luke5 from "./assets/tst.png";
