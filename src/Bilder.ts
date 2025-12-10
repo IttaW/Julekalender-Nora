@@ -9,7 +9,7 @@ import luke7 from "./assets/luke7.JPEG";
 import luke8 from "./assets/luke8.JPEG";
 import luke9 from "./assets/luke9.JPEG";
 import luke10 from "./assets/luke10.JPEG";
-import luke11 from "./assets/tst.png";
+import luke11 from "./assets/luke11.JPEG";
 import luke12 from "./assets/tst.png";
 import luke13 from "./assets/tst.png";
 import luke14 from "./assets/tst.png";
