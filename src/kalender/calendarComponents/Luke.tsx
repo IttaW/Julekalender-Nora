@@ -16,7 +16,7 @@ export const Luke = ({ luke, onClick }: Lukeprops) => {
   luke.aktiv && console.log(luke.dato, luke.aktiv);
 
   const handleOnClick = (luke: LukeType) => {
-    if (erDatoMindreEllerLikIdag(luke.dato)) {
+    if (erDatoMindreEllerLikIdag(luke.dato) || luke.forceOpen) {
       onClick(luke);
     } else {
       setRist(true);
@@ -29,7 +29,7 @@ export const Luke = ({ luke, onClick }: Lukeprops) => {
     }
   };
   const handleLukeBilde = (luke: LukeType) => {
-    if (erDatoMindreEllerLikIdag(luke.dato)) {
+    if (erDatoMindreEllerLikIdag(luke.dato) || luke.forceOpen) {
       return bilder[luke.lukenummer - 1];
     } else {
       return nissen;
@@ -64,7 +64,7 @@ export const Luke = ({ luke, onClick }: Lukeprops) => {
         <img alt={"lukebilde"} src={handleLukeBilde(luke)} />
         <div>
           <h2>{luke.lukenummer}. desember</h2>
-          <p>{erDatoMindreEllerLikIdag(luke.dato) ? luke.luke : ""}</p>
+          <p>{erDatoMindreEllerLikIdag(luke.dato) || luke.forceOpen ? luke.luke : ""}</p>
         </div>
       </div>
     </div>

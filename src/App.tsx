@@ -8,6 +8,7 @@ export type LukeType = {
   luke: string;
   lukenummer: number;
   aktiv: boolean;
+  forceOpen: boolean;
 };
 
 function App() {

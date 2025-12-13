@@ -3,144 +3,168 @@
     "dato": "2025-12-01",
     "luke": "Du skulle egentlig kommet hjem fra nattevakt i dag! Dagens luke kvikker opp kropp og sinn!",
     "lukenummer": 1,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen": false
   },
   {
     "dato": "2025-12-02",
     "luke": "Desember byr på tørr luft og kalde dager. Kan dagens luke være til hjelp?",
     "lukenummer": 2,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-03",
     "luke": "Når nettene blir lange og kulden setter inn, kan dagens ekle luke varme sjel og kropp og sinn...",
     "lukenummer": 3,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-04",
     "luke": "Din favoritt, ha en fin dag :)",
     "lukenummer": 4,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-05",
     "luke": "Kaldt ute, kaldt inne, kald på tærne, kald i magen!",
     "lukenummer": 5,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-06",
     "luke": "Vi trenger knekkebrød, for vi har ingenting å legge dagens luke på!",
     "lukenummer": 6,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-07",
     "luke": "Slapp av, det er søndag! Nyt en hjemmelaget V60 idag!",
     "lukenummer": 7,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-08",
     "luke": "Ungene er nok grinete idag, ta med en cookie til lunsj og glem skrikerungene :o",
     "lukenummer": 8,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-09",
     "luke": "Swooosj, pling, sjekk ut eposten din!",
     "lukenummer": 9,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-10",
     "luke": "Høy risiko, jeg er offisielt på glattisen idag! Sjekk ut juvelene!",
     "lukenummer": 10,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-11",
     "luke": "Nesten helg, ha en salt og sprø torsdag :)",
     "lukenummer": 11,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-12",
     "luke": "Postmann pat, Postmann pat, med et brev til deg idag!",
     "lukenummer": 12,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-13",
     "luke": "Syng! Saaanta luciaaa...",
     "lukenummer": 13,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-14",
     "luke": "Er det verdensrekord i elv og by bygging?",
     "lukenummer": 14,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  true
   },
   {
     "dato": "2025-12-15",
     "luke": "",
     "lukenummer": 15,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-16",
     "luke": "",
     "lukenummer": 16,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-17",
     "luke": "",
     "lukenummer": 17,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-18",
     "luke": "",
     "lukenummer": 18,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-19",
     "luke": "",
     "lukenummer": 19,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-20",
     "luke": "",
     "lukenummer": 20,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-21",
     "luke": "",
     "lukenummer": 21,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-22",
     "luke": "",
     "lukenummer": 22,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-23",
     "luke": "",
     "lukenummer": 23,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   },
   {
     "dato": "2025-12-24",
     "luke": "",
     "lukenummer": 24,
-    "aktiv": false
+    "aktiv": false,
+    "forceOpen":  false
   }
 ]
