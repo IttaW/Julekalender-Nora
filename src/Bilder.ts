@@ -13,7 +13,7 @@ import luke11 from "./assets/luke11.JPEG";
 import luke12 from "./assets/luke12.JPEG";
 import luke13 from "./assets/luke13.JPEG";
 import luke14 from "./assets/luke14.JPEG";
-import luke15 from "./assets/tst.png";
+import luke15 from "./assets/luke15.JPEG";
 import luke16 from "./assets/tst.png";
 import luke17 from "./assets/tst.png";
 import luke18 from "./assets/tst.png";
