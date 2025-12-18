@@ -16,7 +16,7 @@ import luke14 from "./assets/luke14.JPEG";
 import luke15 from "./assets/luke15.JPEG";
 import luke16 from "./assets/luke16.JPEG";
 import luke17 from "./assets/luke17.JPEG";
-import luke18 from "./assets/tst.png";
+import luke18 from "./assets/luke18.png";
 import luke19 from "./assets/tst.png";
 import luke20 from "./assets/tst.png";
 import luke21 from "./assets/tst.png";
