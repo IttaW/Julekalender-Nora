@@ -17,12 +17,12 @@ import luke15 from "./assets/luke15.JPEG";
 import luke16 from "./assets/luke16.JPEG";
 import luke17 from "./assets/luke17.JPEG";
 import luke18 from "./assets/luke18.png";
-import luke19 from "./assets/tst.png";
-import luke20 from "./assets/tst.png";
-import luke21 from "./assets/tst.png";
-import luke22 from "./assets/tst.png";
-import luke23 from "./assets/tst.png";
-import luke24 from "./assets/tst.png";
+import luke19 from "./assets/luke19.JPEG";
+import luke20 from "./assets/luke20.JPEG";
+import luke21 from "./assets/luke21.JPEG";
+import luke22 from "./assets/luke22.JPEG";
+import luke23 from "./assets/luke23.JPEG";
+import luke24 from "./assets/luke24.JPEG";
 
 export default [
     luke1,
